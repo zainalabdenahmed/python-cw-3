@@ -1,7 +1,7 @@
 <div dir=rtl> 
 
 
-<h1>second-task</h1>
+<h1>Third-day</h1>
 
 
 <p dir="rtl">
@@ -12,27 +12,28 @@
 - قم بعمل fork للـ repository
 - قم بعمل clone للـ repository
 - افتح ملف main.py
-- عرف new list واعجل اسمها "favorite_animals" واضف بداخلها اربعة عناصر من اختيارك مثال: 
-1. dog
-2. cat
-3. monkey
-4. rabbit
-- اطبع الـ favorite_animals list كاملة باستخدام print statement
-- اطبع ثاني عنصر من الـ list
-- باستخدام remove method امسح الـ monkey او ثالث عنصر من الـ list
+- قم بانشاء function باسم myName 
+- اجعل الـ function تقوم بطباعة اسمك بهذا الشكل:
+```
+My name is Fatima
+```
 
  <h1></h1>
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1sA89c0LxxoBCoTHY9UvwdLftiFQ1g3EhAYEMoltLLTg/edit#">الجزء الثاني</a></strong></p>
- 
-- اضف عنصر جديد داخل الـ favorite_animals list باستخدام append method
-- باستخدام ال for loop اطبع كل عنصر بس بالشكل التالي: 
-```
-I love dog
-I love cat
-I love monkey
-I love rabbit
-```
+
+- قم بانشاء two variables باسم first_number & second_number 
+- اطلب من المستخدم ادخال input باسم operation
+- باستخدام ال if condition تحقق من قيمة الـ operation اذا كانت: 
+   ```
+   + اجمع الرقمين معاً
+   - اطرح الرقم الاول من الثاني
+   * اضرب الرقمين معاً
+   / اقسم الرقم الاول من الثاني
+   ```
+- اطبع الناتج بعد التحقق من الـ operation
+- قم بعمل validation على الـ input:
+  - اذا كانت قيمة ال operation ليست احد العمليات الحسابية الاربعة (*,+,-,/) اطبع the operation is not valid
 
  <h1></h1>
 <p dir="rtl">
