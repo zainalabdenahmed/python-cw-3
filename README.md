@@ -12,7 +12,7 @@
 - قم بعمل fork للـ repository
 - قم بعمل clone للـ repository
 - افتح ملف main.py
-- قم بانشاء function باسم myName 
+- قم بانشاء function باسم my_name 
 - اجعل الـ function تقوم بطباعة اسمك بهذا الشكل:
 ```
 My name is Fatima
@@ -39,9 +39,11 @@ My name is Fatima
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit">الجزء الثالث</a></strong></p>
  
-- عرف new list باسم numbers واجعل قيمته [1, 2, 3, 4, 5]
-- عرف variable باسم numbers_sum واجعل قيمته تساوي 0
-- باستخدام الـ for loop اضف قيمة مجموع الارقام داخل الـ numbers_sum
-- باستخدام الـ print اطبع مجموع الأرقام
+- قم بانشاء function باسم cube تاخذ argument باسم number 
+- اجعل الـ function تقوم بارجاع (return) مكعب الرقم (the number to the power of 3)
+- قم بانشاء function ثانية باسم by_three وتاخذ argument باسم number:
+  - اذا كان الرقم يقبل القسمة على 3 استخدم cube(number) function وقم بارجاع الناتج
+  - اذا كان لا يقبل القسمة على 3 قم بارجاع false
+
  
 </div>
