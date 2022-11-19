@@ -14,26 +14,30 @@
 - افتح ملف main.py
 - قم بانشاء function باسم my_name 
 - اجعل الـ function تقوم بطباعة اسمك بهذا الشكل:
+
+<div>
+
 ```
 My name is Fatima
 ```
+
+</div>
 
  <h1></h1>
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1sA89c0LxxoBCoTHY9UvwdLftiFQ1g3EhAYEMoltLLTg/edit#">الجزء الثاني</a></strong></p>
 
-- قم بانشاء two variables باسم first_number & second_number 
-- اطلب من المستخدم ادخال input باسم operation
-- باستخدام ال if condition تحقق من قيمة الـ operation اذا كانت: 
-   ```
-   + اجمع الرقمين معاً
-   - اطرح الرقم الاول من الثاني
-   * اضرب الرقمين معاً
-   / اقسم الرقم الاول من الثاني
-   ```
-- اطبع الناتج بعد التحقق من الـ operation
-- قم بعمل validation على الـ input:
-  - اذا كانت قيمة ال operation ليست احد العمليات الحسابية الاربعة (*,+,-,/) اطبع the operation is not valid
+- قم بانشاء function باسم my_meal 
+- قم بانشاء two arguments باسم food & drink 
+- اجعل الـ function تقوم بطباعة اسمك بهذا الشكل:
+
+<div>
+
+```
+I like to eat {food} and while drinking {drink}
+```
+
+</div>
 
  <h1></h1>
 <p dir="rtl">
