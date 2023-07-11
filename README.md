@@ -10,8 +10,8 @@
   
   
   
-- قم بعمل fork للـ repository
-- قم بعمل clone للـ repository
+- حمل الـ repository (هذا الفولدر)
+- افتح الملف في VS Code
 - افتح ملف main.py
 - عرف new list واعجل اسمها "favorite_animals" واضف بداخلها اربعة عناصر من اختيارك مثال:
 
